@@ -34,4 +34,4 @@ Besides the GraphQL component, your application must provide some subscription-r
 - __transport__: How does your application deliver payloads to clients?
 - __queueing__: How does your application distribute the work of re-running subscription queries?
 
-Read more in the {% internal_link "Implementation guide", "subscriptions/implementation" %} or check out the {% internal_link "ActionCable implementation", "subscriptions/action_cable_implementation" %} or {% internal_link "Pusher implementation", "subscriptions/pusher_implementation" %}.
+Read more in the ["Implementation guide"]("subscriptions/implementation") or check out the {% internal_link "ActionCable implementation", "subscriptions/action_cable_implementation" %} or {% internal_link "Pusher implementation", "subscriptions/pusher_implementation" %}.
